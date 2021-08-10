@@ -1,1 +1,2 @@
-Hello this is chapter 1
+Hello this is chapter 1. 
+This is the new changes made to chapter 1 after new alien branch.
